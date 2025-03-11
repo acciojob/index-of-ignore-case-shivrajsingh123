@@ -1,4 +1,4 @@
-function indexOfIgnoreCase(str, substr) {
+function indexOfIgnoreCase(str, subStr) {
   return str.toLowerCase().indexOf(subStr.toLowerCase());
 }
 
